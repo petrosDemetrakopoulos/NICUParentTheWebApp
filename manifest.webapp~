@@ -1,0 +1,14 @@
+
+{
+  "name": "NICU Parent",
+  "description": "Parent App",
+  "launch_path": "/home/owner/Desktop/HTML5/NICUParent/",
+  "icons": {
+    "128": "/icon@2x.png"
+  },
+  "developer": {
+    "name": "PSD Apps",
+    "url": "/home/owner/Desktop/HTML5/NICUParent"
+  },
+  "default_locale": "en"
+}
